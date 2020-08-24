@@ -1,8 +1,8 @@
 torchxrayvision/scripts_probayes/output*/
 cache
 data
-*.png
-*.jpg
+# *.png
+# *.jpg
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
