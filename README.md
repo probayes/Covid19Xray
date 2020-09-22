@@ -1,4 +1,4 @@
-The present repository provides an example of the utilization of deep learning models to analyse X-ray images acquired in a medical context. 
+The present repository, developed by Probayes, provides an example of the utilization of deep learning models to analyse X-ray images acquired in a medical context. 
 More specifically, Convolutional Neural Networks (CNN) are used to classify chest X-ray images of patients suspected of being affected by a 
 thoracic disease such as pneumonia or COVID-19, i.e. to predict whether a chest X-ray image has been acquired in a healthy patient or 
 in a patient affected by a specific thoracic disease.
